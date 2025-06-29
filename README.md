@@ -32,7 +32,7 @@
 ---
 
 ### 🌐 Let’s Connect
-📫 DM-friendly: [Instagram](https://instagram.com/kamalkode) | [LinkedIn](https://linkedin.com/in/kamalkode)  
-🎯 Portfolio & playground: [kamalkode.dev](https://kamalkode.dev)
+📫 DM-friendly: [Instagram](https://instagram.com/ahmadkamaludin97) | [LinkedIn](https://linkedin.com/in/ahmad-kamaludin-098826298)  
+🎯 Portfolio & playground: [kamalkode.dev](https://github.com)
 
 > “Keep shipping, keep breaking, keep learning 🚀”
