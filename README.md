@@ -8,6 +8,11 @@
 
 ---
 
+![snake gif](https://raw.githubusercontent.com/AhmadKamaludin24/snk/output/github-contribution-grid-snake.svg)
+
+
+---
+
 ### 🔧 Tech Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript)
