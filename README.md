@@ -1,10 +1,37 @@
-## Hi there 👋
+### 👋 Yo, I'm Ahmad!
 
+🧑‍💻 Coding enthusiast by day, tech dreamer by night  
+🚀 Currently grinding on web dev (Next.js + Supabase), Flutter, and AI stuff  
+🧠 Forever learning – sekarang lagi ngulik 3D + NLP  
+🎨 Design minimalis, UI clean, dan UX yang *bikin betah*  
+☕ Ngoding sambil kopi, kadang sambil overthinking
 
+---
 
-##### Skills
+### 🔧 Tech Stack
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
+![Stripe](https://img.shields.io/badge/-Stripe-635bff?style=flat&logo=stripe)
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+---
+
+### 📦 Featured Projects
+✨ **webticket** – Next.js app buat kelola event dan tiket digital  
+🧠 **Brobot** – chatbot AI yang bisa diajak ngobrol kayak temen sendiri  
+🎮 **3D Model Store** – ecommerce 3D pakai Stripe & Supabase
+
+---
+
+### 📈 Stats & Vibes
+![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalkode&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkode&layout=compact)
+
+---
+
+### 🌐 Let’s Connect
+📫 DM-friendly: [Instagram](https://instagram.com/kamalkode) | [LinkedIn](https://linkedin.com/in/kamalkode)  
+🎯 Portfolio & playground: [kamalkode.dev](https://kamalkode.dev)
+
+> “Keep shipping, keep breaking, keep learning 🚀”
