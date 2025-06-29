@@ -1,10 +1,10 @@
 ### 👋 Yo, I'm Ahmad!
 
 🧑‍💻 Coding enthusiast by day, tech dreamer by night  
-🚀 Currently grinding on web dev (Next.js + Supabase), Flutter, and AI stuff  
-🧠 Forever learning – sekarang lagi ngulik 3D + NLP  
-🎨 Design minimalis, UI clean, dan UX yang *bikin betah*  
-☕ Ngoding sambil kopi, kadang sambil overthinking
+🚀 Currently grinding on full-stack web dev (Next.js + Supabase), Flutter, and some AI experiments  
+🧠 Lifelong learner — currently diving into 3D and NLP stuff  
+🎨 I love clean UI, minimal design, and intuitive UX  
+☕ Coding with coffee, sometimes overthinking for fun
 
 ---
 
@@ -18,14 +18,14 @@
 ---
 
 ### 📦 Featured Projects
-✨ **webticket** – Next.js app buat kelola event dan tiket digital  
-🧠 **Brobot** – chatbot AI yang bisa diajak ngobrol kayak temen sendiri  
-🎮 **3D Model Store** – ecommerce 3D pakai Stripe & Supabase
+✨ **webticket** – A Next.js app to manage digital events & ticketing  
+🧠 **Brobot** – An AI chatbot you can actually vibe with  
+🎮 **3D Model Store** – A 3D e-commerce site powered by Stripe & Supabase
 
 ---
 
 ### 📈 Stats & Vibes
-![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadKamaludin24&show_icons=true&theme=tokyonight)
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadKamaludin24&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKamaludin24&layout=compact&theme=tokyonight)
 
