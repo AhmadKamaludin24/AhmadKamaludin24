@@ -25,8 +25,8 @@
 ---
 
 ### 📈 Stats & Vibes
-![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalkode&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalkode&layout=compact)
+![Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadKamaludin24&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKamaludin24&layout=compact)
 
 ---
 
