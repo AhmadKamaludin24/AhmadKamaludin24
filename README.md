@@ -18,7 +18,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat&logo=typescript)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase)
-![Stripe](https://img.shields.io/badge/-Stripe-635bff?style=flat&logo=stripe)
+![Go](https://img.shields.io/github/go-mod/go-version/:user/:repo)
+
 
 ---
 
