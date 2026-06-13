@@ -12,12 +12,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AhmadKamaludin24/snk/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%" />
-</div>
-
----
-
 ### 🔧 Tech Stack & Tools
 
 **Languages & Frameworks:**
