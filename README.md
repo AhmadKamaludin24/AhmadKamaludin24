@@ -37,15 +37,6 @@
 
 ---
 
-### 📈 Stats & Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmadKamaludin24&show_icons=true&theme=tokyonight&count_private=true" alt="Ahmad's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadKamaludin24&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-</p>
-
----
-
 ### 🌐 Let’s Connect
 
 📫 **DM-friendly:** [Instagram](https://instagram.com/ahmadkamaludin97) | [LinkedIn](https://linkedin.com/in/ahmad-kamaludin-098826298)  
