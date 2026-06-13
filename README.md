@@ -2,7 +2,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Front--End-blue?style=flat-square&logo=react" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building%20SAMBATAN-red?style=flat-square&logo=unrealengine" alt="Status" />
 </p>
 
 🧑‍💻 **Coding enthusiast** by day, **tech dreamer** by night  
